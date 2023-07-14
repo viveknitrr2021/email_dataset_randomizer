@@ -1,8 +1,8 @@
 import pandas
-from com.DBAI import confirmaffirm
-from com.DBAI import failure
-from com.DBAI import success
-from com.DBAI import confirmletter
+import confirmaffirm
+import failure
+import success
+import confirmletter
 
 df = pandas.read_csv("D:/DBAI/email_dataset_randomizer/resources/spam_ham_dataset.csv")
 

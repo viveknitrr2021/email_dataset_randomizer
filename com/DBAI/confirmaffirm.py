@@ -1,5 +1,5 @@
 import random
-from com.DBAI import currency_list as cl
+import currency_list as cl
 
 subjectlist = []
 subjectlist.append("MT 517")
