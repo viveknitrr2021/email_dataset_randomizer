@@ -1,5 +1,5 @@
 import random
-import currency_list as cl
+from com.DBAI import currency_list as cl
 
 subjectlist = []
 subjectlist.append("Confirmation of Funds certificate")
